@@ -9,8 +9,7 @@ Fork of [Paper](https://github.com/PaperMC/Paper) aimed at improving server perf
 ## How To (Server Admins)
 Tuinity uses the same paperclip jar system that Paper uses.
 
-[Download Tuinity for 1.15](https://ci.tivy.ca/job/Tuinity-1.15.2/)
-[Download Tuinity for 1.16](https://ci.codemc.io/job/Spottedleaf/job/Tuinity/)
+[Download Tuinity for 1.15](https://ci.tivy.ca/job/Tuinity-1.15.2/) | [Download Tuinity for 1.16](https://ci.codemc.io/job/Spottedleaf/job/Tuinity/)
 
 You can also [build it yourself](https://github.com/Spottedleaf/Tuinity#building)
 
